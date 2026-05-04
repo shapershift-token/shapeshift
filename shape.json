@@ -1,0 +1,10 @@
+{
+  "name": "Shapeshift",
+  "symbol": "SHAPE",
+  "description": "rotates with the meta",
+  "image": "https://raw.githubusercontent.com/shapershift-token/shapeshift/main/shape.png",
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/shapershift-token/shapeshift/main/shape.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
