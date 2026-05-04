@@ -1,6 +1,6 @@
 {
-  "name": "Shapeshift",
-  "symbol": "SHAPE",
+  "name": "Shapeshifted",
+  "symbol": "SHAPE_0",
   "description": "rotates with the meta",
   "image": "https://raw.githubusercontent.com/shapershift-token/shapeshift/main/shape.png",
   "properties": {
